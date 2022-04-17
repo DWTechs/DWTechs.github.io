@@ -1,4 +1,4 @@
-# Javascript Libraries
+## Javascript Libraries
 
 - **[CheckHard.js](https://github.com/DWTechs/CheckHard.js)**: 
 Type checking library to test if a given variable is what it is supposed to be
