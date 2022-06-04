@@ -6,11 +6,11 @@ this is the DWtechs portal for web developers of the organization
 
 ## Docs
 
-- **[Efficient Git](https://github.com/DWTechs/CheckHard.js)**: 
-Learn how to use Git on all our internal projects 
+- **[Efficient Git](https://dwtechs.github.io/efficient-git/)**: 
+Learn how we use Git on all our projects 
 
-- **[Efficient Angular](https://github.com/DWTechs/CheckHard.js)**: 
-Learn how to use Angular on all our internal projects
+- **[Efficient Node.js](https://dwtechs.github.io/efficient-node/)**: 
+Learn how we use Node.js on all our projects
 
 
 ## Starter kits
@@ -21,7 +21,7 @@ Start an Angular project with on all pre-installed libraries we use in all our i
 - **[React](https://github.com/DWTechs/Angular-starter-kit)**: 
 Start a React project with on all pre-@installed libraries we use in all our internal projects 
 
-- **[Node.jd](https://github.com/DWTechs/Node.js-starter-kit)**: 
+- **[Node.js](https://github.com/DWTechs/Node.js-starter-kit)**: 
 Start a Node.js project with on all pre-@installed libraries we use in all our internal projects 
 
 
