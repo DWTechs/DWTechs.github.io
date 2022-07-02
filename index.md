@@ -12,6 +12,8 @@ Learn how we use Git on all our projects
 - **[Efficient Node.js](https://dwtechs.github.io/efficient-node/)**: 
 Learn how we use Node.js on all our projects
 
+- **[Efficient Angular](https://dwtechs.github.io/efficient-angular/)**: 
+Learn how we use Angular on all our projects
 
 ## Starter kits
 
