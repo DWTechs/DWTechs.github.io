@@ -15,7 +15,7 @@ Learn how we use Node.js on all our projects
 - **[Efficient Angular](https://dwtechs.github.io/efficient-angular/)**: 
 Learn how we use Angular on all our projects
 
-- **[Efficient Angular](https://dwtechs.github.io/efficient-web-app-architecture/)**: 
+- **[Efficient Web application architecture](https://dwtechs.github.io/efficient-web-app-architecture/)**: 
 Learn how we architecture all our web applications
 
 ## Starter kits
