@@ -1,7 +1,7 @@
 # DWTechnologies
 
 
-this is the DWtechs portal for web developers of the organization
+This is the DWtechs portal for web developers of the organization
 
 
 ## Docs
@@ -18,30 +18,21 @@ Learn how we use Angular on all our projects
 - **[Efficient Web application architecture](https://dwtechs.github.io/efficient-web-app-architecture/)**: 
 Learn how we architecture all our web applications
 
-## Starter kits
-
-- **[Angular](https://github.com/DWTechs/Angular-starter-kit)**: 
-Start an Angular project with on all pre-installed libraries we use in all our internal projects 
-
-- **[React](https://github.com/DWTechs/Angular-starter-kit)**: 
-Start a React project with on all pre-@installed libraries we use in all our internal projects 
-
-- **[Node.js](https://github.com/DWTechs/Node.js-starter-kit)**: 
-Start a Node.js project with on all pre-@installed libraries we use in all our internal projects 
-
-
 
 ## Javascript Libraries
 
 - **[CheckHard.js](https://github.com/DWTechs/CheckHard.js)**: 
 Type checking library to test if a given variable is what it is supposed to be
 
-- **[Slughorn.js](https://github.com/DWTechs/Slughorn.js)**: 
-Slugify URLs with SEO optimization
-
 - **[CtrlTab.js](https://github.com/DWTechs/CtrlTab.js)**: 
-Key binding library with multiple keystroke detection to add shortcuts to your app
+Key binding library with multiple keystroke detection to add shortcuts to your application
 
 - **[CSVx.js](https://github.com/DWTechs/CSVx.js)**: 
-Export your Javascript data as CSV file
+Export your Javascript data as CSV file and more
+
+- **[Slughorn.js](https://github.com/DWTechs/Slughorn.js)**: 
+Slugify strings with SEO optimization
+
+- **[GitBranchValidator](https://github.com/DWTechs/GitBranchValidator)**: 
+Git branch name validator for clean workflow and better readability
 
