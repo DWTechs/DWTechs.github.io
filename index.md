@@ -23,6 +23,9 @@ Learn how we architecture all our web applications
 - **[GitBranchValidator](https://github.com/DWTechs/GitBranchValidator)**: 
 Git branch name validator for clean workflow and better readability, written in Node.js
 
+- **[GitCommitValidator](https://github.com/DWTechs/GitCommitValidator)**: 
+Git commit message validator for clean workflow and better readability, written in Node.js
+
 ## Javascript Libraries
 
 - **[CheckHard.js](https://github.com/DWTechs/CheckHard.js)**: 
